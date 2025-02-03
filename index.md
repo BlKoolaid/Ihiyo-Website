@@ -7,8 +7,11 @@ title: Home
 
 This is the homepage for our CS 426 Senior Project in Computer Science, Spring 2025, at UNR, CSE Department.
 
-## Instructors: David Feil-Seifer, Sara Davis
-## External Advisor: June S. Saraceno - Creative Writing Program Director
+## Instructors: 
+- David Feil-Seifer
+- Sara Davis
+## External Advisor:
+- June S. Saraceno - Creative Writing Program Director
 
 ## Project Description
 The goal of Ihiyo is to create an immersive, narrative-driven puzzle game where players explore a rundown, rural town, form connections with its inhabitants, both living and dead, and solve puzzles using the protagonist’s newfound ability to project a ghost form. The core gameplay allows players to possess and manipulate people and objects to offer a unique and atmospheric experience which blends storytelling, gameplay, and world-building. Players will uncover the mystery of the protagonist’s curse and the impending end of the world by progressing through the thrilling story. Ihiyo emphasizes its transitions between the protagonist’s physical form and his ghostly projection, encouraging use of both forms to interact with key people or objects. Each puzzle aims to contribute to the overarching narrative, ensuring that the gameplay and story work together to create a cohesive, engaging experience.
