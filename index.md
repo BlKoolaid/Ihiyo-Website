@@ -10,6 +10,7 @@ This is the homepage for our CS 426 Senior Project in Computer Science, Spring 2
 ## Instructors: 
 - David Feil-Seifer
 - Sara Davis
+
 ## External Advisor:
 - June S. Saraceno - Creative Writing Program Director
 
