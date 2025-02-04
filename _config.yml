@@ -1,3 +1,4 @@
 title: Ihiyo
 description: Website for our CS 426 Senior Project, Ihiyo, at UNR, CSE Department.
 theme: minima
+stylesheet: /assets/style.scss
