@@ -29,6 +29,7 @@ Ihiyo is designed with dependability in mind, focusing on all aspects to deliver
 - Eri Sotres
 
 ## Resources
-- [Link to resources]
-- [Link to resources]
-- [Link to resources]
+1. “A Link to the Past Walkthrough.” *Zelda Dungeon*, [www.zeldadungeon.net/a-link-to-the-past-walkthrough/](https://www.zeldadungeon.net/a-link-to-the-past-walkthrough/).
+2. Brunskill, Kerry. “Ghost Trick: Phantom Detective Review.” *Pcgamer*, 5 July 2023, [www.pcgamer.com/ghost-trick-phantom-detective-review/](https://www.pcgamer.com/ghost-trick-phantom-detective-review/).
+3. Channelcousin. “How the Storytelling of Celeste Mirrors Its Gameplay.” *Channel Cousin*, WordPress, 9 Feb. 2020, [channelcousin.com/2019/11/16/storytelling-of-celeste/](https://channelcousin.com/2019/11/16/storytelling-of-celeste/).
+4. “Web Content Accessibility Guidelines (WCAG) 2.1.” *W3C*, 12 Dec. 2024, [www.w3.org/TR/2024/REC-WCAG21-20241212/](https://www.w3.org/TR/2024/REC-WCAG21-20241212/).
